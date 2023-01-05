@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知识与技能 on 主页</title>
+    <link>https://Averagereaper.github.io/post/</link>
+    <description>Recent content in 知识与技能 on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Averagereaper.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender:3D建模与动画制作</title>
+      <link>https://Averagereaper.github.io/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Averagereaper.github.io/post/chapter-4/</guid>
+      <description>我在业余时间喜欢做一些3D模型和小动画，我使用的主要工具是blender，这是一款开源的3维图形图像软件，提供从建模，材质，渲染，到音视频处理和剪辑等一系列动画制作解决方案，以下是我利用Blende r 构建雪地场景的视频以及我所做的的两个小动画。</description>
+    </item>
+    
+    <item>
+      <title>Python编程</title>
+      <link>https://Averagereaper.github.io/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Averagereaper.github.io/post/chapter-6/</guid>
+      <description>Python由荷兰数学和计算机科学研究学会的吉多·范罗苏姆于1990年代初设计，作为一门叫做ABC语言的替代品。 Python提供了高效的高级数据结构，还能简单有效地面向对象编程。Python语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本和快速开发应用的编程语言， 随着版本的不断更新和语言新功能的添加，逐渐被用于独立的、大型项目的开发。
+我第一次接触python是在大二下学期的选修课上，当我第一次学习到这门语言就被它的魅力深深的吸引，由于它的简洁使得处理和表达数据都显得十分方便，随着对Python的深入学习我越来越发现这门语言的神奇之处，通过python我可以便捷的采集网络上的数据并将其存入本地，还可以将其制作成图表显示出来。而且通过我自主的学习我也成功的编制出语音对话机器人，并且Python的功能还远不止这些。随着在日常工作中对数据需求的激增，它也成为了我得力的工具与伙伴！以下两个视频分别展示了我利用python进行网络数据的爬取并进行数据可视化分析和语音对话机器人的实现。</description>
+    </item>
+    
+    <item>
+      <title>动态网站设计</title>
+      <link>https://Averagereaper.github.io/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Averagereaper.github.io/post/chapter-5/</guid>
+      <description>在本学期专业课上我学会了动态网站设计的相关内容，并且在小组的通力合作下圆满完成了动态网站的搭建，这也让我学到了很多。
+在设计与开发上我们主要使用的工具是Visual studio和SQL server，主要编码语言用到了HTML.CSS,JAVASCRIPT和C#,通过网站的搭建不仅让我接触到了全新的语言，而且也让我了解到现阶段动态网站的整体架构和内部运行原理，同时C#语言的学习对于我今后的利用Unity开发游戏相关的内容也是有很大帮助，由于项目的过于庞大，在下面的视频我简单介绍一下由我编写的管理员界面的整体思路架构。</description>
+    </item>
+    
+    <item>
+      <title>图像的处理</title>
+      <link>https://Averagereaper.github.io/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Averagereaper.github.io/post/chapter-1/</guid>
+      <description>图像的处理也是一项重要技能，现阶段几乎所有工作都会产生大量的图片，对图片处理的需求也与日俱增，而通过近端时间的学习我也基本入门了GIMP，可以通过GIMP进行一些基本的图像操作，比如图像拼接，去水印，添加滤镜等等，但是这些还远远不够，我需要在今后深入的学习下去，希望能早日精通，达到得心应手的水平。</description>
+    </item>
+    
+    <item>
+      <title>图表的绘制</title>
+      <link>https://Averagereaper.github.io/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Averagereaper.github.io/post/chapter-3/</guid>
+      <description>研究表明，人眼处理图的速度比处理文字的速度要快6万倍。而且在日常生活中我们已经离不开各种各样的图表，因此掌握高效绘制图表的方法也变得越来越重要。绘制图表的工具多种多样，有经典的Visio，开源免费简洁高效的draw，专业绘制UML图的Rational Rose，还有基于Python专注于数据可视化的Orange。掌握这些软件的使用方法无疑会给我们的工作与生活带来极大的便利，由于平时学习的需要我也是经常用到这些软件，熟练的绘制流程图等图表也不算大问题。</description>
+    </item>
+    
+    <item>
+      <title>音视频处理</title>
+      <link>https://Averagereaper.github.io/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Averagereaper.github.io/post/chapter-2/</guid>
+      <description>当今时代是多媒体的时代，每天产生的短视频多达4亿条，在这样的背景下，掌握音视频的处理技术显得越来越重要，在最近的学习中我也是逐渐开始接触相关的技术，学习了Audacity和shotcut以及OBS studio，基本掌握了其基础的用法，运用Audacity可以对音频文件进行便捷的处理，包括降噪，淡入淡出等。运用shotcut可以对视频文件进行处理，不仅具备基础的剪辑拼接功能，还可以添加字幕，添加配乐等等。而OBS是一个功能强大的录屏与直播软件。</description>
+    </item>
+    
+  </channel>
+</rss>
